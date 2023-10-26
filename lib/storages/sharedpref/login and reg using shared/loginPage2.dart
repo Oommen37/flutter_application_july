@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_application_july/RegistrationPage.dart';
-import 'package:flutter_application_july/storages/simple%20login/homeshared.dart';
+import 'package:flutter_application_july/storages/sharedpref/simple%20login/homeshared.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
