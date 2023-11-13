@@ -12,7 +12,20 @@
           "package_name": "com.oommen.luminar_july"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "932554889410-ljp40u22eerp4bcof7gpve9iqpmqakt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oommen.luminar_july",
+            "certificate_hash": "a449f0a841e4521ccdd319b8fc1a118ed8c7758f"
+          }
+        },
+        {
+          "client_id": "932554889410-g89vtle5490e7kj4u699ecpv2jqdjl15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCv1jlxx3uCHWCXqjNc2kvF-cWjEzYCj_w"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932554889410-g89vtle5490e7kj4u699ecpv2jqdjl15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
